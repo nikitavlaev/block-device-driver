@@ -14,7 +14,7 @@ MODULE_LICENSE("GPL");
 #define KERN_LOG_LEVEL		KERN_ALERT
 
 #define BLOCK_MAJOR		240
-#define BLKDEV_NAME		"mybdev"
+#define BLKDEV_NAME		"bdev"
 #define BLOCK_MINORS		1
 //initial size 100 Mb
 #define NR_SECTORS		204800
