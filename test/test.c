@@ -1,8 +1,3 @@
-/*
- * SO2 - Block device driver (#8)
- * Test suite for exercise #3 (RAM Disk)
- */
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
